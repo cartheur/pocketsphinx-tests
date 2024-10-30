@@ -3,7 +3,6 @@ using Cartheur.Animals.Utilities;
 
 namespace Cartheur.Animals.Tests
 {
-
     public class PocketSphinxTests
     {
         Decoder decoder { get; set; }
