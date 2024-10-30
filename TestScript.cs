@@ -1,8 +1,6 @@
 ﻿using Pocketsphinx;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Cartheur.Animals.Utilities;
 
-[TestClass]
 public class TestScript
 {
 
